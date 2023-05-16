@@ -1,0 +1,15 @@
+When working with reinforcement learning, it is essential to follow code standards and utilize appropriate libraries to ensure efficient and maintainable code. Here are some commonly used code standards and libraries for reinforcement learning:
+
+1. Code Standards:
+   - PEP 8: Follow the Python style guide outlined in PEP 8 (https://www.python.org/dev/peps/pep-0008/) for consistent and readable code.
+   - Docstrings: Include informative docstrings to document classes, functions, and methods. Adhere to the guidelines provided in PEP 257 (https://www.python.org/dev/peps/pep-0257/) for docstring conventions.
+
+2. Libraries:
+   - OpenAI Gym: A popular library for developing and comparing reinforcement learning algorithms. It provides a wide range of pre-defined environments for testing RL agents. Install it using `pip install gym`.
+   - NumPy: A fundamental library for numerical computations in Python. It provides efficient array operations and mathematical functions. Install it using `pip install numpy`.
+   - TensorFlow or PyTorch: These are deep learning libraries that offer powerful tools for building neural networks and implementing reinforcement learning algorithms. Install TensorFlow using `pip install tensorflow` and PyTorch using `pip install torch`.
+   - Stable Baselines3: A high-level library that builds upon OpenAI Gym and provides implementations of various RL algorithms. Install it using `pip install stable-baselines3`.
+
+You can install these libraries using the pip package manager by running the commands mentioned above. Additionally, it's a good practice to create a virtual environment to isolate your project dependencies and avoid conflicts between different projects.
+
+Remember to consult the official documentation of each library to understand their usage and explore additional functionalities they offer.
